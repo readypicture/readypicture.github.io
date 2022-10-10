@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreadypicture=self.webpackChunkreadypicture||[]).push([[316],{9846:e=>{e.exports=JSON.parse('{"allTagsPath":"/readypicture.github.io/blog/tags","slug":"/readypicture.github.io/blog/tags/facebook","name":"facebook","count":1,"permalink":"/readypicture.github.io/blog/tags/facebook"}')}}]);
