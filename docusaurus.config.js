@@ -53,7 +53,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                     items: [
                         {
                             type: 'doc',
-                            docId: 'mealpick/개인정보처리방침',
+                            docId: '개인정보처리방침',
                             position: 'left',
                             label: '프로젝트',
                         },
@@ -73,7 +73,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                             items: [
                                 {
                                     label: '프로젝트',
-                                    to: '/docs/mealpick/개인정보처리방침',
+                                    to: '/docs/개인정보처리방침',
                                 },
                             ],
                         },
